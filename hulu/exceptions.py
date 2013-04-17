@@ -1,0 +1,2 @@
+class HuluError(Exception):
+    pass
