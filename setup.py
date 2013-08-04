@@ -19,7 +19,7 @@ setup(
     include_package_data=True,
     install_requires=['requests>=1.0.0, <2.0.0', 'requests_oauthlib==0.3.0'],
     author='Mike Helmick',
-    author_email='mikehelmick@me.com',
+    author_email='me@michaelhelmick.com',
     license=open('LICENSE').read(),
     url='http://github.com/michaelhelmick/hulu/tree/master',
     keywords='hulu python api json',
